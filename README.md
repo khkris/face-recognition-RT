@@ -8,11 +8,11 @@ This implementation is heavily inspired by VGG-Face-Net.
 Open-CV is used for the preprocessing of the captured face. More specifically, the Haar-Cascade classifier is used for detection and alignment.
 
 ## Running
-To add a new face to the database, run: `AddToDatabase.py`
+To add a new face to the database, run: `AddToDatabase.py` in the src folder
 
-To remove a face from the database, run: `RemoveFromDatabase.py`
+To remove a face from the database, run: `RemoveFromDatabase.py` in the src folder
 
-To execute the project, run: `FR_driver.py`
+To execute the project, run: `FR_driver.py` in the src folder
 
 ## Results
 ![Result1](/results/Capture.PNG)
