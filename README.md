@@ -12,7 +12,7 @@ To add a new face to the database, run: `AddToDatabase.py` in the src folder
 
 To remove a face from the database, run: `RemoveFromDatabase.py` in the src folder
 
-To execute the project, run: `FR_driver.py` in the src folder
+To execute the project, run: `FR_driver.py` in the src folder.
 After execution, Press 'Q' to close the frame.
 
 ## Results
